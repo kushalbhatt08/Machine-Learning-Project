@@ -75,29 +75,4 @@ The final Random Forest model is used to predict the median house value for a ne
 The Random Forest Regressor achieved the best performance, explaining over **80% of the variance** in house values on the test set.
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/house-value-prediction.git
-   cd house-value-prediction
-   ```
-
-2. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-   ```
-
-3. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook House_value_prediction.ipynb
-   ```
-
-4. Run all cells sequentially to reproduce the results.
-
----
-
-## 👤 Author
-
 **Kushal Bhatt**
