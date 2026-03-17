@@ -62,5 +62,4 @@ The Traffic Flow Prediction project highlights the significant role of vehicle c
 
 Moreover, this project emphasizes the broader implications for sustainable urban mobility, suggesting ways to enhance traffic management systems and reduce vehicular emissions. Accurate traffic predictions can lead to more efficient road networks, supporting economic productivity by reducing time spent in traffic and improving overall transportation systems.
 
-## Kushal Bhatt
 
