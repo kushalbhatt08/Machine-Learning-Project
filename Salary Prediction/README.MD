@@ -17,7 +17,6 @@ The dataset includes the following columns:
 |Country|Country of the employee|
 |Race|Race of the employee|
 
-By leveraging this dataset, the project seeks to build a robust predictive model that accurately estimates salaries based on demographic attributes, contributing valuable insights to the understanding of income disparities and the complex interplay of factors that influence earnings within diverse demographic contexts.
-
-Kushal Bhatt
+Thanks 
+Kushal 
 
