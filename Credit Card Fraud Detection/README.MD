@@ -87,6 +87,5 @@ Key EDA steps included:
 - Fraud detection strategies used in industry  
 - Improving ML models with techniques like SMOTE, scaling, and tuning  
 
----
 
 
