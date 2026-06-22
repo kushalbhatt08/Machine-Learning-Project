@@ -4,18 +4,6 @@ A machine learning project that builds and compares binary classifiers on a subs
 
 ---
 
-## Project Structure
-
-```
-├── data/                  # MNIST subset (digits 1 and 7)
-├── notebooks/             # Jupyter notebooks
-│   └── machine_learning_01.ipynb
-├── results/               # Plots and figures
-└── README.md
-```
-
----
-
 ## Dataset
 
 - **Source:** MNIST subset — digits 1 and 7 only
